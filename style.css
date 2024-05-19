@@ -71,6 +71,10 @@ h1{
     border-radius: 5px;
 }
 
+.operations{
+    background-color: rgb(235, 212, 179);
+}
+
 .grid-item:hover, .grid-item2:hover{
     box-shadow: 3px 3px 3px 3px rgba(239, 228, 228, 0.807);
 }
